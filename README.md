@@ -16,4 +16,4 @@ This document describes the steps that need to be taken to get the software runn
 A window will pop-up showing the frames of the test videos and the results of face detection and classification. 
 If during this phase you want to stop the application you can click on Esc button. You will have this a number of times, as it only interrupts the current number of training shots (and there are 9 rounds).
 13. When the testing in all test videos has ended, the application will show the results but also save all necessary graphs and files. 
-14. The application will end by itself. 
+14. The application will end by itself after all graphs have been closed. 
